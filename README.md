@@ -3,7 +3,7 @@
 1. **Clone the repository**
     ```bash
     git clone 
-    cd 
+    cd snitch
     ```
 
 2. **Install dependencies**
