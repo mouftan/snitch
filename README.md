@@ -2,7 +2,7 @@
 
 1. **Clone the repository**
     ```bash
-    git clone 
+    git clone https://github.com/mouftan/snitch.git
     cd snitch
     ```
 
